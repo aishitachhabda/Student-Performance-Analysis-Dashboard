@@ -2,8 +2,6 @@
 This project is an interactive Student Performance Analysis Dashboard designed to analyze and visualize academic data.  It helps in:  Understanding student performance across multiple subjects Identifying trends in exam scores Classifying based on grades Detecting weak and strong performers Providing predictive insights using. machine learning
 
 
-# Student Performance Analysis & Smart Study Dashboard
-
 ##  Overview
 
 This project is an interactive **Student Performance Dashboard** built using Python and Streamlit. It analyzes student data, visualizes academic performance, and provides insights to help understand strengths and weaknesses across subjects.
