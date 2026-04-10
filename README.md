@@ -1,7 +1,6 @@
 # Student-Performance-Analysis-Dashboard
 This project is an interactive Student Performance Analysis Dashboard designed to analyze and visualize academic data.  It helps in:  Understanding student performance across multiple subjects Identifying trends in exam scores Classifying based on grades Detecting weak and strong performers Providing predictive insights using. machine learning
 
-
 ##  Overview
 
 This project is an interactive **Student Performance Dashboard** built using Python and Streamlit. It analyzes student data, visualizes academic performance, and provides insights to help understand strengths and weaknesses across subjects.
@@ -9,10 +8,9 @@ This project is an interactive **Student Performance Dashboard** built using Pyt
 The dashboard includes data visualization, filtering options, and a basic machine learning model to predict future performance.
 
 ##Features
+ **Performance Dashboard**
 
-*  **Performance Dashboard**
-
-  * Displays average marks, top score, and attendance
+   Displays average marks, top score, and attendance
 
    **Grade Classification**
 
@@ -24,7 +22,7 @@ The dashboard includes data visualization, filtering options, and a basic machin
   * Pie Chart (Grade Distribution)
   * Heatmap (Student vs Subject Performance)
 
-* 🔍 **Filters**
+*  **Filters**
 
   * Filter by student, subject, and grade
 
